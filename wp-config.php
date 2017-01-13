@@ -21,17 +21,17 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('WP_CACHE', true); //Added by WP-Cache Manager
-define( 'WPCACHEHOME', '/hermes/bosnaweb21a/b1834/nf.vsmc/public_html/victoriastrong.ca/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'victoria_160129');
+
+define('DB_NAME', 'da7lhjpegtr1t2');
 
 /** MySQL database username */
-define('DB_USER', 'victoria_160129');
+define('DB_USER', 'guycjlvmksxtmz');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Victory^*^@2313');
+define('DB_PASSWORD', '15adfb00d92a5539742c005869dd27ae412e44e48176c47971be31d0eebd534a');
 
 /** MySQL hostname */
-define('DB_HOST', 'vsmc.netfirmsmysql.com');
+define('DB_HOST', 'ec2-107-20-149-243.compute-1.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
