@@ -1,0 +1,4815 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: DECA WP Theme\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-04-19 16:39+0100\n"
+"PO-Revision-Date: 2016-04-19 16:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: unCommons Team <team@uncommons.pro>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e;_x;_nx;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18 ../404.php:22
+msgid "Error"
+msgstr ""
+
+#: ../404.php:18 ../404.php:22
+msgid "404"
+msgstr ""
+
+#: ../archive.php:104 ../author.php:107 ../index.php:103
+#: ../page-sidebar.php:85 ../page.php:79 ../search.php:102
+#: ../inc/vc-blocks/blog_feeds.php:187 ../inc/vc-blocks/blog_grid.php:321
+#: ../inc/vc-blocks/blog_masonry.php:442 ../inc/vc-blocks/blog_media.php:262
+msgid "No posts found here!"
+msgstr ""
+
+#: ../comments.php:15
+msgid "Reply"
+msgstr ""
+
+#: ../footer.php:125 ../headers/header-border.php:99
+msgid "get in touch"
+msgstr ""
+
+#: ../footer.php:131 ../headers/header-border.php:105
+msgid "unCommons - copyrights &copy; 2016"
+msgstr ""
+
+#: ../index.php:18 ../index.php:22 ../inc/setup.php:51
+#: ../inc/vc-blocks/sidebar.php:43
+msgid "Blog"
+msgstr ""
+
+#: ../search.php:18
+msgid "Search"
+msgstr ""
+
+#: ../search.php:22
+msgid "Results for: "
+msgstr ""
+
+#: ../single-un-case-studies.php:29
+msgid "Similar Cases"
+msgstr ""
+
+#: ../single-un-portfolio.php:29
+msgid "Similar Projects"
+msgstr ""
+
+#: ../single.php:22
+msgid "SHARE VIA"
+msgstr ""
+
+#: ../single.php:122
+msgid "SIMILAR ARTICLES"
+msgstr ""
+
+#: ../headers/header-border.php:75
+msgid "menu"
+msgstr ""
+
+#: ../headers/header-shop.php:61
+msgid "Total Price: "
+msgstr ""
+
+#: ../inc/functions.php:25
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/metaboxes.php:16
+msgid "General Settings (not available for WooCommerce pages)"
+msgstr ""
+
+#: ../inc/metaboxes.php:18 ../inc/metaboxes.php:136 ../inc/options.php:121
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/metaboxes.php:29 ../inc/metaboxes.php:98 ../inc/options.php:957
+msgid "Header Type"
+msgstr ""
+
+#: ../inc/metaboxes.php:31 ../inc/metaboxes.php:100 ../inc/options.php:697
+#: ../inc/options.php:959
+msgid "Border"
+msgstr ""
+
+#: ../inc/metaboxes.php:32 ../inc/metaboxes.php:101 ../inc/options.php:698
+#: ../inc/options.php:960 ../redux/inc/fields/border/field_border.php:138
+#: ../redux/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../inc/metaboxes.php:41 ../inc/metaboxes.php:110 ../inc/options.php:720
+#: ../inc/options.php:969
+msgid "Header Background"
+msgstr ""
+
+#: ../inc/metaboxes.php:43 ../inc/metaboxes.php:112 ../inc/options.php:722
+#: ../inc/options.php:971 ../inc/vc-blocks/service_4.php:106
+msgid "White"
+msgstr ""
+
+#: ../inc/metaboxes.php:44 ../inc/metaboxes.php:113 ../inc/options.php:723
+#: ../inc/options.php:972 ../inc/vc-blocks/service_4.php:105
+msgid "Black"
+msgstr ""
+
+#: ../inc/metaboxes.php:45 ../inc/metaboxes.php:114
+msgid "Transparent (Menu White)"
+msgstr ""
+
+#: ../inc/metaboxes.php:46 ../inc/metaboxes.php:115
+msgid "Transparent (Menu black)"
+msgstr ""
+
+#: ../inc/metaboxes.php:56
+msgid "Header Title"
+msgstr ""
+
+#: ../inc/metaboxes.php:57
+msgid "Not available for the \"Visual Composer Page\" template"
+msgstr ""
+
+#: ../inc/metaboxes.php:65 ../inc/metaboxes.php:125
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../inc/options.php:47
+msgid ""
+"<p>Have you found a <b>issue</b> or simply need <b>support</b>? Open a "
+"<b>ticket</b> on <a href=\"http://support.uncommons.pro\" target=\"_blank"
+"\">http://support.uncommons.pro</a></p>"
+msgstr ""
+
+#: ../inc/options.php:94
+msgid "Help"
+msgstr ""
+
+#: ../inc/options.php:131
+msgid "Border Header Logo"
+msgstr ""
+
+#: ../inc/options.php:142
+msgid "Border Menu Logo"
+msgstr ""
+
+#: ../inc/options.php:153
+msgid "Top Header Logo"
+msgstr ""
+
+#: ../inc/options.php:167
+msgid "Styling"
+msgstr ""
+
+#: ../inc/options.php:176
+msgid "Primary Color"
+msgstr ""
+
+#: ../inc/options.php:177
+msgid "The most characteristic color"
+msgstr ""
+
+#: ../inc/options.php:191
+msgid "Secondary Color"
+msgstr ""
+
+#: ../inc/options.php:192
+msgid "For most secondary features and panels"
+msgstr ""
+
+#: ../inc/options.php:210
+msgid "Details Color"
+msgstr ""
+
+#: ../inc/options.php:211
+msgid "For small details (like link mouseover)"
+msgstr ""
+
+#: ../inc/options.php:223
+msgid "Primary Font"
+msgstr ""
+
+#: ../inc/options.php:224
+msgid ""
+"This is the main font, used for example for the common text overall the "
+"theme."
+msgstr ""
+
+#: ../inc/options.php:251
+msgid "Secondary Font"
+msgstr ""
+
+#: ../inc/options.php:252
+msgid "This font is used for the titles, headings and great texts."
+msgstr ""
+
+#: ../inc/options.php:317
+msgid "Details Font"
+msgstr ""
+
+#: ../inc/options.php:318
+msgid ""
+"This font is used for some details like quotes, widgets, category's label, "
+"etc."
+msgstr ""
+
+#: ../inc/options.php:363
+msgid "Menu Border Main Item"
+msgstr ""
+
+#: ../inc/options.php:396
+msgid "Menu Border Sub Item"
+msgstr ""
+
+#: ../inc/options.php:429
+msgid "Menu Top Main Item"
+msgstr ""
+
+#: ../inc/options.php:460
+msgid "Menu Top Sub Item"
+msgstr ""
+
+#: ../inc/options.php:491
+msgid "Heading 1"
+msgstr ""
+
+#: ../inc/options.php:524
+msgid "Heading 2"
+msgstr ""
+
+#: ../inc/options.php:556
+msgid "Heading 3"
+msgstr ""
+
+#: ../inc/options.php:588
+msgid "Heading 4"
+msgstr ""
+
+#: ../inc/options.php:620
+msgid "Heading 5"
+msgstr ""
+
+#: ../inc/options.php:652
+msgid "Heading 6"
+msgstr ""
+
+#: ../inc/options.php:686
+msgid "Header"
+msgstr ""
+
+#: ../inc/options.php:695 ../inc/plugins/tgm.php:2439
+#: ../inc/vc-blocks/portfolio.php:48
+msgid "Type"
+msgstr ""
+
+#: ../inc/options.php:707
+msgid "Header Position"
+msgstr ""
+
+#: ../inc/options.php:709 ../inc/vc-blocks/service_2.php:80
+msgid "Sticky"
+msgstr ""
+
+#: ../inc/options.php:710
+msgid "Fixed"
+msgstr ""
+
+#: ../inc/options.php:724
+msgid "Transparent (Black Menu)"
+msgstr ""
+
+#: ../inc/options.php:725
+msgid "Transparent (Gray Menu)"
+msgstr ""
+
+#: ../inc/options.php:735
+msgid "Menu Scrollbar"
+msgstr ""
+
+#: ../inc/options.php:744
+msgid "Page Navigation"
+msgstr ""
+
+#: ../inc/options.php:753
+msgid "Search Icon"
+msgstr ""
+
+#: ../inc/options.php:766
+msgid "Footer"
+msgstr ""
+
+#: ../inc/options.php:775
+msgid "Widgets Columns"
+msgstr ""
+
+#: ../inc/options.php:788
+msgid "Get in Touch URL"
+msgstr ""
+
+#: ../inc/options.php:789 ../inc/options.php:798
+msgid "Leave blank to disable it"
+msgstr ""
+
+#: ../inc/options.php:797
+msgid "Copyright"
+msgstr ""
+
+#: ../inc/options.php:806 ../inc/vc-blocks/team.php:52
+msgid "Behance"
+msgstr ""
+
+#: ../inc/options.php:807
+msgid "Leave blank to disable the Behance icon"
+msgstr ""
+
+#: ../inc/options.php:814 ../inc/vc-blocks/team.php:59
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/options.php:815
+msgid "Leave blank to disable the Twitter icon"
+msgstr ""
+
+#: ../inc/options.php:822 ../inc/vc-blocks/team.php:66
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/options.php:823
+msgid "Leave blank to disable the Facebook icon"
+msgstr ""
+
+#: ../inc/options.php:830
+msgid "Google+"
+msgstr ""
+
+#: ../inc/options.php:831
+msgid "Leave blank to disable the Google+ icon"
+msgstr ""
+
+#: ../inc/options.php:838
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/options.php:839
+msgid "Leave blank to disable the Youtube icon"
+msgstr ""
+
+#: ../inc/options.php:846
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/options.php:847
+msgid "Leave blank to disable the Instagram icon"
+msgstr ""
+
+#: ../inc/options.php:854
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/options.php:855
+msgid "Leave blank to disable the Pinterest icon"
+msgstr ""
+
+#: ../inc/options.php:862
+msgid "RSS"
+msgstr ""
+
+#: ../inc/options.php:863
+msgid "Leave blank to disable the RSS icon"
+msgstr ""
+
+#: ../inc/options.php:874
+msgid "Homepage"
+msgstr ""
+
+#: ../inc/options.php:883
+msgid ""
+"\n"
+"\t\t\t<h2>Are you searching for the Home Options??</h2>\n"
+"\t\t\t<h4><em>With DECA you can create many different Homepages using the "
+"Visual Composer!</em></h4>\n"
+"\t\t\t<br>\n"
+"\t\t\t<h3>1. Take a look to the Visual Composer <a href=\"https://wpbakery."
+"atlassian.net/wiki/pages/viewpage.action?pageId=4030510\" target=\"_blank"
+"\">How To</a></h3>\n"
+"\t\t\t<br>\n"
+"\t\t\t<h3>2. Try to follow our <a href=\"http://demo.uncommons.pro/themes/wp/"
+"deca/docs/\" target=\"_blank\">Guide</a> (we added many blocks to Visual "
+"Composer)</h3>\n"
+"\t\t\t<br>\n"
+"\t\t\t<h3>3. Now you can <a href=\"post-new.php?post_type=page\" target="
+"\"_blank\">Create a new Page</a> and set it on VC Template</h3>\n"
+"\t\t\t<br>\n"
+"\t\t\t<h3>4. At the end of this process you only have to set the page as "
+"Static Page > Frontpage in the <a href=\"options-reading.php\" target="
+"\"_blank\">WP Reading Options</a></h3>\n"
+"\t\t\t<br>\n"
+"\t\t\t<h3>5. Still problems? Ask our help <a href=\"http://support.uncommons."
+"pro\" target=\"_blank\" class=\"un-options-button\">opening a ticket</a>!</"
+"h3>"
+msgstr ""
+
+#: ../inc/options.php:904
+msgid "Post Types"
+msgstr ""
+
+#: ../inc/options.php:913
+msgid "Related Posts"
+msgstr ""
+
+#: ../inc/options.php:921
+msgid "Comments Posts"
+msgstr ""
+
+#: ../inc/options.php:929
+msgid "Related Projects"
+msgstr ""
+
+#: ../inc/options.php:937
+msgid "Related Case of Studies"
+msgstr ""
+
+#: ../inc/options.php:948 ../inc/options.php:1067 ../inc/setup.php:151
+msgid "Shop"
+msgstr ""
+
+#: ../inc/options.php:982
+msgid "Hero Section"
+msgstr ""
+
+#: ../inc/options.php:984
+msgid "Simple Title"
+msgstr ""
+
+#: ../inc/options.php:985 ../inc/options.php:1128
+msgid "Advanced"
+msgstr ""
+
+#: ../inc/options.php:997
+msgid "You choosen Simple Title"
+msgstr ""
+
+#: ../inc/options.php:999
+msgid "The system will use the standard page title you set in your shop page."
+msgstr ""
+
+#: ../inc/options.php:1010
+msgid "Background"
+msgstr ""
+
+#: ../inc/options.php:1022
+msgid "Overlay"
+msgstr ""
+
+#: ../inc/options.php:1024 ../inc/vc-blocks/image_frame.php:50
+#: ../inc/vc-blocks/service_4.php:50 ../inc/vc-blocks/setup.php:50
+#: ../inc/vc-blocks/slider.php:60
+msgid "None"
+msgstr ""
+
+#: ../inc/options.php:1025 ../inc/vc-blocks/image_frame.php:51
+#: ../inc/vc-blocks/service_4.php:51 ../inc/vc-blocks/setup.php:51
+#: ../inc/vc-blocks/slider.php:61
+msgid "Light 90%"
+msgstr ""
+
+#: ../inc/options.php:1026 ../inc/vc-blocks/image_frame.php:52
+#: ../inc/vc-blocks/service_4.php:52 ../inc/vc-blocks/setup.php:52
+#: ../inc/vc-blocks/slider.php:62
+msgid "Light 80%"
+msgstr ""
+
+#: ../inc/options.php:1027 ../inc/vc-blocks/image_frame.php:53
+#: ../inc/vc-blocks/service_4.php:53 ../inc/vc-blocks/setup.php:53
+#: ../inc/vc-blocks/slider.php:63
+msgid "Light 70%"
+msgstr ""
+
+#: ../inc/options.php:1028 ../inc/vc-blocks/image_frame.php:54
+#: ../inc/vc-blocks/service_4.php:54 ../inc/vc-blocks/setup.php:54
+#: ../inc/vc-blocks/slider.php:64
+msgid "Light 60%"
+msgstr ""
+
+#: ../inc/options.php:1029 ../inc/vc-blocks/image_frame.php:55
+#: ../inc/vc-blocks/service_4.php:55 ../inc/vc-blocks/setup.php:55
+#: ../inc/vc-blocks/slider.php:65
+msgid "Light 50%"
+msgstr ""
+
+#: ../inc/options.php:1030 ../inc/vc-blocks/image_frame.php:56
+#: ../inc/vc-blocks/service_4.php:56 ../inc/vc-blocks/setup.php:56
+#: ../inc/vc-blocks/slider.php:66
+msgid "Light 40%"
+msgstr ""
+
+#: ../inc/options.php:1031 ../inc/vc-blocks/image_frame.php:57
+#: ../inc/vc-blocks/service_4.php:57 ../inc/vc-blocks/setup.php:57
+#: ../inc/vc-blocks/slider.php:67
+msgid "Light 30%"
+msgstr ""
+
+#: ../inc/options.php:1032 ../inc/vc-blocks/image_frame.php:58
+#: ../inc/vc-blocks/service_4.php:58 ../inc/vc-blocks/setup.php:58
+#: ../inc/vc-blocks/slider.php:68
+msgid "Light 20%"
+msgstr ""
+
+#: ../inc/options.php:1033 ../inc/vc-blocks/image_frame.php:59
+#: ../inc/vc-blocks/service_4.php:59 ../inc/vc-blocks/setup.php:59
+#: ../inc/vc-blocks/slider.php:69
+msgid "Light 10%"
+msgstr ""
+
+#: ../inc/options.php:1034 ../inc/vc-blocks/image_frame.php:60
+#: ../inc/vc-blocks/service_4.php:60 ../inc/vc-blocks/setup.php:60
+#: ../inc/vc-blocks/slider.php:70
+msgid "Dark 90%"
+msgstr ""
+
+#: ../inc/options.php:1035 ../inc/vc-blocks/image_frame.php:61
+#: ../inc/vc-blocks/service_4.php:61 ../inc/vc-blocks/setup.php:61
+#: ../inc/vc-blocks/slider.php:71
+msgid "Dark 80%"
+msgstr ""
+
+#: ../inc/options.php:1036 ../inc/vc-blocks/image_frame.php:62
+#: ../inc/vc-blocks/service_4.php:62 ../inc/vc-blocks/setup.php:62
+#: ../inc/vc-blocks/slider.php:72
+msgid "Dark 70%"
+msgstr ""
+
+#: ../inc/options.php:1037 ../inc/vc-blocks/image_frame.php:63
+#: ../inc/vc-blocks/service_4.php:63 ../inc/vc-blocks/setup.php:63
+#: ../inc/vc-blocks/slider.php:73
+msgid "Dark 60%"
+msgstr ""
+
+#: ../inc/options.php:1038 ../inc/vc-blocks/image_frame.php:64
+#: ../inc/vc-blocks/service_4.php:64 ../inc/vc-blocks/setup.php:64
+#: ../inc/vc-blocks/slider.php:74
+msgid "Dark 50%"
+msgstr ""
+
+#: ../inc/options.php:1039 ../inc/vc-blocks/image_frame.php:65
+#: ../inc/vc-blocks/service_4.php:65 ../inc/vc-blocks/setup.php:65
+#: ../inc/vc-blocks/slider.php:75
+msgid "Dark 40%"
+msgstr ""
+
+#: ../inc/options.php:1040 ../inc/vc-blocks/image_frame.php:66
+#: ../inc/vc-blocks/service_4.php:66 ../inc/vc-blocks/setup.php:66
+#: ../inc/vc-blocks/slider.php:76
+msgid "Dark 30%"
+msgstr ""
+
+#: ../inc/options.php:1041 ../inc/vc-blocks/image_frame.php:67
+#: ../inc/vc-blocks/service_4.php:67 ../inc/vc-blocks/setup.php:67
+#: ../inc/vc-blocks/slider.php:77
+msgid "Dark 20%"
+msgstr ""
+
+#: ../inc/options.php:1042 ../inc/vc-blocks/image_frame.php:68
+#: ../inc/vc-blocks/service_4.php:68 ../inc/vc-blocks/setup.php:68
+#: ../inc/vc-blocks/slider.php:78
+msgid "Dark 10%"
+msgstr ""
+
+#: ../inc/options.php:1052 ../inc/vc-blocks/setup.php:76
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/options.php:1054 ../inc/vc-blocks/setup.php:80
+#: ../redux/framework.php:1888
+msgid "Default"
+msgstr ""
+
+#: ../inc/options.php:1055 ../inc/vc-blocks/image_frame.php:125
+#: ../inc/vc-blocks/setup.php:81 ../inc/vc-blocks/slider.php:121
+msgid "Light"
+msgstr ""
+
+#: ../inc/options.php:1056 ../inc/vc-blocks/image_frame.php:125
+#: ../inc/vc-blocks/setup.php:82 ../inc/vc-blocks/slider.php:120
+msgid "Dark"
+msgstr ""
+
+#: ../inc/options.php:1066
+msgid "Shop Title"
+msgstr ""
+
+#: ../inc/options.php:1075
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../inc/options.php:1084 ../woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr ""
+
+#: ../inc/options.php:1092
+msgid "Products Columns"
+msgstr ""
+
+#: ../inc/options.php:1095
+msgid "2 Columns"
+msgstr ""
+
+#: ../inc/options.php:1099
+msgid "3 Columns"
+msgstr ""
+
+#: ../inc/options.php:1103
+msgid "4 Columns"
+msgstr ""
+
+#: ../inc/options.php:1114 ../inc/vc-blocks/sidebar.php:27
+#: ../inc/vc-blocks/sidebar.php:39
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/options.php:1137
+msgid "Loader Type"
+msgstr ""
+
+#: ../inc/options.php:1139 ../redux/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr ""
+
+#: ../inc/options.php:1140
+msgid "Custom"
+msgstr ""
+
+#: ../inc/options.php:1150
+msgid "Custom Loader"
+msgstr ""
+
+#: ../inc/options.php:1151
+msgid "Set the custom loader to overwrite the loader of the theme."
+msgstr ""
+
+#: ../inc/options.php:1162
+msgid "Page Loading"
+msgstr ""
+
+#: ../inc/options.php:1164
+msgid "All Pages"
+msgstr ""
+
+#: ../inc/options.php:1165
+msgid "Only Home"
+msgstr ""
+
+#: ../inc/options.php:1166
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/options.php:1175
+msgid "404/Error Page Content"
+msgstr ""
+
+#: ../inc/options.php:1176
+msgid "Customize your 404 page with useful content."
+msgstr ""
+
+#: ../inc/options.php:1177
+msgid "Sorry the current page is not exist.. Try again or use the menu links"
+msgstr ""
+
+#: ../inc/options.php:1189
+msgid "Head Custom Code"
+msgstr ""
+
+#: ../inc/options.php:1190
+msgid "Useful for Google Analytics or other scripts and codes."
+msgstr ""
+
+#: ../inc/options.php:1199
+msgid "Foot Custom Code"
+msgstr ""
+
+#: ../inc/options.php:1200
+msgid "Useful for foot scripts and codes."
+msgstr ""
+
+#: ../inc/options.php:1209
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/options.php:1210
+msgid ""
+"Useful for your CSS classes or to edit the css style without open files."
+msgstr ""
+
+#: ../inc/options.php:1219
+msgid "Hide unCommons News & Notices"
+msgstr ""
+
+#: ../inc/plugins.php:52 ../inc/plugins/tgm.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/plugins.php:53 ../inc/plugins/tgm.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/plugins.php:54 ../inc/plugins/tgm.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/plugins.php:55 ../inc/plugins/tgm.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/plugins.php:66 ../inc/plugins/tgm.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/plugins.php:67 ../inc/plugins/tgm.php:399
+#: ../inc/plugins/tgm.php:3030
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/plugins.php:68
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/setup.php:61 ../inc/vc-blocks/sidebar.php:44
+msgid "Page"
+msgstr ""
+
+#: ../inc/setup.php:71 ../inc/vc-blocks/sidebar.php:45
+msgid "Footer 1"
+msgstr ""
+
+#: ../inc/setup.php:81 ../inc/vc-blocks/sidebar.php:46
+msgid "Footer 2"
+msgstr ""
+
+#: ../inc/setup.php:91 ../inc/vc-blocks/sidebar.php:47
+msgid "Footer 3"
+msgstr ""
+
+#: ../inc/setup.php:101 ../inc/vc-blocks/sidebar.php:48
+msgid "Footer 4"
+msgstr ""
+
+#: ../inc/setup.php:111 ../inc/vc-blocks/sidebar.php:49
+msgid "Extra 1"
+msgstr ""
+
+#: ../inc/setup.php:121 ../inc/vc-blocks/sidebar.php:50
+msgid "Extra 2"
+msgstr ""
+
+#: ../inc/setup.php:131 ../inc/vc-blocks/sidebar.php:51
+msgid "Extra 3"
+msgstr ""
+
+#: ../inc/setup.php:141 ../inc/vc-blocks/sidebar.php:52
+msgid "Extra 4"
+msgstr ""
+
+#: ../inc/setup.php:207
+msgid "Main Menu"
+msgstr ""
+
+#: ../inc/un_news.php:197 ../inc/un_news.php:206
+msgid "No news found"
+msgstr ""
+
+#: ../inc/un_news.php:214
+msgid "No news from unCommons Team"
+msgstr ""
+
+#: ../inc/un_opt.php:329
+msgid "Theme License"
+msgstr ""
+
+#: ../inc/un_opt.php:377
+msgid "Secret Key"
+msgstr ""
+
+#: ../inc/un_opt.php:379
+msgid ""
+"Note: don't register the theme on a <b>temporary</b> or <b>developing "
+"domain</b>! Register it on the <b>final</b> public domain!"
+msgstr ""
+
+#: ../inc/woocommerce.php:61
+msgid "Shop Menu"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:10
+msgid "Case Category"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:11
+#: ../inc/cpt/un-portfolio-categories.php:11
+msgid "Category"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:12
+#: ../inc/cpt/un-portfolio-categories.php:12
+msgid "Search Categories"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:13
+#: ../inc/cpt/un-portfolio-categories.php:13 ../inc/widgets/mega-posts.php:154
+#: ../inc/widgets/mega-projects.php:158
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:14
+#: ../inc/cpt/un-portfolio-categories.php:14
+msgid "Parent Category"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:15
+#: ../inc/cpt/un-portfolio-categories.php:15
+msgid "Parent Category:"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:16
+#: ../inc/cpt/un-portfolio-categories.php:16
+msgid "Edit Category"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:17
+#: ../inc/cpt/un-portfolio-categories.php:17
+msgid "Update Category"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:18
+#: ../inc/cpt/un-portfolio-categories.php:18
+msgid "Add New Category"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:19
+#: ../inc/cpt/un-portfolio-categories.php:19
+msgid "New Category Name"
+msgstr ""
+
+#: ../inc/cpt/un-case-categories.php:20
+#: ../inc/cpt/un-portfolio-categories.php:20
+msgid "Categories"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:10 ../inc/cpt/un-case-studies.php:22
+#: ../inc/vc-blocks/case_studies.php:27
+msgid "Case Studies"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:11 ../inc/vc-blocks/case_study.php:27
+msgid "Case Study"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:12 ../inc/cpt/un-portfolio.php:13
+msgid "Add New"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:13
+msgid "Add New Case"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:14
+msgid "Edit Case"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:15
+msgid "New Case"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:16
+msgid "All Cases"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:17
+msgid "View Cases"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:18
+msgid "Search Cases"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:19
+msgid "No Case found"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:20
+msgid "No Case found in Trash"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:54
+#, php-format
+msgid "Case updated. <a href=\"%s\">View Case</a>"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:55 ../inc/cpt/un-portfolio.php:56
+msgid "Custom field updated."
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:56 ../inc/cpt/un-portfolio.php:57
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:57
+msgid "Case updated."
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:58
+#, php-format
+msgid "Case restored to revision from %s"
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:59
+msgid "Case published."
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:60
+msgid "Case saved."
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:61
+msgid "Case submitted."
+msgstr ""
+
+#: ../inc/cpt/un-case-studies.php:62
+msgid "Case scheduled."
+msgstr ""
+
+#: ../inc/cpt/un-portfolio-categories.php:10
+msgid "Project Category"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:11
+msgid "Projects"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:12
+msgid "Project"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:14
+msgid "Add New Project"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:15
+msgid "Edit Project"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:16
+msgid "New Project"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:17
+msgid "All Projects"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:18
+msgid "View Project"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:19
+msgid "Search Projects"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:20
+msgid "No project found"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:21
+msgid "No project found in Trash"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:23
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:55
+#, php-format
+msgid "Project updated. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:58
+msgid "Project updated."
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:59
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:60
+msgid "Project published."
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:61
+msgid "Project saved."
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:62
+msgid "Project submitted."
+msgstr ""
+
+#: ../inc/cpt/un-portfolio.php:63
+msgid "Project scheduled."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:521
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:829 ../inc/plugins/tgm.php:3439
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:936
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:936 ../inc/plugins/tgm.php:939
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:939
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:1882
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2168
+msgid "Required"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2171
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2187
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2190
+msgid "External Source"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2193
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2210
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2214
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2216
+#: ../redux/inc/fields/link_color/field_link_color.php:100
+msgid "Active"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2222
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2225
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2228
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2236
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2281
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2372
+msgid "unknown"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2380
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2388
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2400
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2423
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2437
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2438
+msgid "Source"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2443
+#: ../redux/inc/welcome/views/status_report.php:715
+msgid "Version"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2444 ../woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2492
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2496
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2501
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2571
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2604
+msgid "Install"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2610
+msgid "Update"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2613
+msgid "Activate"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2644
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2646
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2682
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2684
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2789
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2815
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3029
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3363
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3365
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3366
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3370
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3371
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3371 ../inc/plugins/tgm.php:3377
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3371 ../inc/plugins/tgm.php:3377
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3372
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3373
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3376
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3377
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3378
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3379
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/redux-ext/metaboxes/extension_metaboxes.php:930
+#: ../redux/framework.php:230 ../redux/framework.php:234
+msgid "Options"
+msgstr ""
+
+#: ../inc/redux-ext/metaboxes/extension_metaboxes.php:1083
+#: ../redux/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../inc/redux-ext/metaboxes/extension_metaboxes.php:1086
+#: ../redux/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../inc/redux-ext/metaboxes/extension_metaboxes.php:1090
+#: ../inc/redux-ext/metaboxes/extension_metaboxes.php:1372
+#: ../redux/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../inc/redux-ext/metaboxes/extension_metaboxes.php:1093
+#: ../redux/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../inc/redux-ext/metaboxes/extension_metaboxes.php:1097
+msgid "Expand"
+msgstr ""
+
+#: ../inc/redux-ext/metaboxes/extension_metaboxes.php:1377
+msgid "warnings(s) were found!"
+msgstr ""
+
+#: ../inc/redux-ext/repeater/repeater/field_repeater.php:180
+#: ../inc/redux-ext/repeater/repeater/field_repeater.php:223
+#: ../redux/inc/fields/slides/field_slides.php:167
+#: ../redux/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../inc/redux-ext/repeater/repeater/field_repeater.php:245
+msgid "Add"
+msgstr ""
+
+#: ../inc/vc-blocks/banner.php:27
+msgid "Banner"
+msgstr ""
+
+#: ../inc/vc-blocks/banner.php:29
+msgid "A banner shop"
+msgstr ""
+
+#: ../inc/vc-blocks/banner.php:30 ../inc/vc-blocks/blog_feeds.php:30
+#: ../inc/vc-blocks/blog_grid.php:30 ../inc/vc-blocks/blog_masonry.php:30
+#: ../inc/vc-blocks/blog_media.php:30 ../inc/vc-blocks/callout.php:30
+#: ../inc/vc-blocks/carousel.php:30 ../inc/vc-blocks/case_list.php:30
+#: ../inc/vc-blocks/case_studies.php:30 ../inc/vc-blocks/case_study.php:30
+#: ../inc/vc-blocks/clients.php:30 ../inc/vc-blocks/gallery.php:30
+#: ../inc/vc-blocks/hero_head_1.php:30 ../inc/vc-blocks/hero_head_2.php:30
+#: ../inc/vc-blocks/image_frame.php:30 ../inc/vc-blocks/item_gall.php:30
+#: ../inc/vc-blocks/page_head.php:30 ../inc/vc-blocks/portfolio.php:30
+#: ../inc/vc-blocks/pricing.php:30 ../inc/vc-blocks/quotes.php:30
+#: ../inc/vc-blocks/separator.php:30 ../inc/vc-blocks/service_1.php:30
+#: ../inc/vc-blocks/service_2.php:30 ../inc/vc-blocks/service_3.php:30
+#: ../inc/vc-blocks/service_4.php:30 ../inc/vc-blocks/sidebar.php:30
+#: ../inc/vc-blocks/slider.php:30 ../inc/vc-blocks/team.php:30
+msgid "DECA"
+msgstr ""
+
+#: ../inc/vc-blocks/banner.php:38 ../inc/vc-blocks/blog_feeds.php:60
+#: ../inc/vc-blocks/blog_grid.php:61 ../inc/vc-blocks/blog_masonry.php:38
+#: ../inc/vc-blocks/blog_masonry.php:117 ../inc/vc-blocks/blog_media.php:59
+#: ../inc/vc-blocks/carousel.php:109 ../inc/vc-blocks/case_studies.php:110
+#: ../inc/vc-blocks/case_study.php:87 ../inc/vc-blocks/gallery.php:105
+#: ../inc/vc-blocks/hero_head_1.php:57 ../inc/vc-blocks/hero_head_2.php:54
+#: ../inc/vc-blocks/image_frame.php:115 ../inc/vc-blocks/page_head.php:38
+#: ../inc/vc-blocks/portfolio.php:40 ../inc/vc-blocks/portfolio.php:97
+#: ../inc/vc-blocks/service_1.php:38 ../inc/vc-blocks/service_3.php:50
+#: ../inc/vc-blocks/service_4.php:91 ../inc/vc-blocks/slider.php:129
+#: ../redux/inc/fields/slides/field_slides.php:145
+#: ../redux/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: ../inc/vc-blocks/banner.php:45 ../inc/vc-blocks/hero_head_2.php:80
+msgid "Subtitle"
+msgstr ""
+
+#: ../inc/vc-blocks/banner.php:52 ../inc/vc-blocks/callout.php:38
+#: ../inc/vc-blocks/carousel.php:128 ../inc/vc-blocks/case_list.php:189
+#: ../inc/vc-blocks/clients.php:45 ../inc/vc-blocks/gallery.php:149
+#: ../inc/vc-blocks/pricing.php:86 ../inc/vc-blocks/service_2.php:90
+#: ../inc/vc-blocks/slider.php:145
+msgid "Link"
+msgstr ""
+
+#: ../inc/vc-blocks/banner.php:60 ../inc/vc-blocks/blog_feeds.php:83
+#: ../inc/vc-blocks/blog_grid.php:93 ../inc/vc-blocks/blog_masonry.php:149
+#: ../inc/vc-blocks/blog_media.php:82 ../inc/vc-blocks/callout.php:46
+#: ../inc/vc-blocks/carousel.php:143 ../inc/vc-blocks/case_list.php:202
+#: ../inc/vc-blocks/case_studies.php:143 ../inc/vc-blocks/case_study.php:182
+#: ../inc/vc-blocks/clients.php:53 ../inc/vc-blocks/gallery.php:163
+#: ../inc/vc-blocks/hero_head_1.php:123 ../inc/vc-blocks/hero_head_2.php:96
+#: ../inc/vc-blocks/image_frame.php:133 ../inc/vc-blocks/item_gall.php:68
+#: ../inc/vc-blocks/page_head.php:55 ../inc/vc-blocks/portfolio.php:218
+#: ../inc/vc-blocks/pricing.php:95 ../inc/vc-blocks/quotes.php:78
+#: ../inc/vc-blocks/separator.php:53 ../inc/vc-blocks/service_1.php:55
+#: ../inc/vc-blocks/service_2.php:99 ../inc/vc-blocks/service_3.php:67
+#: ../inc/vc-blocks/service_4.php:129 ../inc/vc-blocks/sidebar.php:63
+#: ../inc/vc-blocks/slider.php:160 ../inc/vc-blocks/team.php:82
+msgid ""
+"<i class=\"fa fa-info-circle\"></i> To manage special section features like "
+"the overlay, the full-height and bg you have to edit the <b>Row Options</b>"
+msgstr ""
+
+#: ../inc/vc-blocks/banner.php:61 ../inc/vc-blocks/blog_feeds.php:84
+#: ../inc/vc-blocks/blog_grid.php:94 ../inc/vc-blocks/blog_masonry.php:150
+#: ../inc/vc-blocks/blog_media.php:83 ../inc/vc-blocks/callout.php:47
+#: ../inc/vc-blocks/carousel.php:144 ../inc/vc-blocks/case_list.php:203
+#: ../inc/vc-blocks/case_studies.php:144 ../inc/vc-blocks/case_study.php:183
+#: ../inc/vc-blocks/clients.php:54 ../inc/vc-blocks/gallery.php:164
+#: ../inc/vc-blocks/hero_head_1.php:124 ../inc/vc-blocks/hero_head_2.php:97
+#: ../inc/vc-blocks/image_frame.php:134 ../inc/vc-blocks/item_gall.php:69
+#: ../inc/vc-blocks/page_head.php:56 ../inc/vc-blocks/portfolio.php:219
+#: ../inc/vc-blocks/pricing.php:96 ../inc/vc-blocks/quotes.php:79
+#: ../inc/vc-blocks/separator.php:54 ../inc/vc-blocks/service_1.php:56
+#: ../inc/vc-blocks/service_2.php:100 ../inc/vc-blocks/service_3.php:68
+#: ../inc/vc-blocks/service_4.php:130 ../inc/vc-blocks/sidebar.php:64
+#: ../inc/vc-blocks/slider.php:161 ../inc/vc-blocks/team.php:83
+msgid "Special Features"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:27
+msgid "Blog Feeds"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:29
+msgid "A list of posts (no images)"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:39 ../inc/vc-blocks/blog_grid.php:38
+#: ../inc/vc-blocks/blog_masonry.php:47 ../inc/vc-blocks/blog_media.php:38
+#: ../inc/vc-blocks/case_studies.php:39 ../inc/vc-blocks/portfolio.php:73
+msgid "Choose Category"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:41 ../inc/vc-blocks/blog_grid.php:40
+#: ../inc/vc-blocks/blog_masonry.php:49 ../inc/vc-blocks/blog_media.php:40
+#: ../inc/vc-blocks/case_studies.php:41 ../inc/vc-blocks/portfolio.php:75
+msgid ""
+"Choose the category to display in the loop (use slug). Leave empty to show "
+"all categories"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:47 ../inc/vc-blocks/blog_grid.php:47
+#: ../inc/vc-blocks/blog_masonry.php:103 ../inc/vc-blocks/blog_media.php:46
+#: ../inc/vc-blocks/case_studies.php:48 ../inc/vc-blocks/portfolio.php:82
+msgid "Items Limit"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:49 ../inc/vc-blocks/blog_grid.php:49
+#: ../inc/vc-blocks/blog_masonry.php:105 ../inc/vc-blocks/blog_media.php:48
+msgid ""
+"Use an integer value to limit the number of posts displayed (leave in blank "
+"to display all posts)"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:55 ../inc/vc-blocks/blog_grid.php:56
+#: ../inc/vc-blocks/blog_masonry.php:112 ../inc/vc-blocks/blog_media.php:54
+#: ../inc/vc-blocks/case_studies.php:104 ../inc/vc-blocks/portfolio.php:91
+msgid "Order by"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:57 ../inc/vc-blocks/blog_grid.php:58
+#: ../inc/vc-blocks/blog_masonry.php:114 ../inc/vc-blocks/blog_media.php:56
+#: ../inc/vc-blocks/portfolio.php:93
+msgid "Order your posts by title, date, etc"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:59 ../inc/vc-blocks/blog_grid.php:60
+#: ../inc/vc-blocks/blog_masonry.php:116 ../inc/vc-blocks/blog_media.php:58
+#: ../inc/vc-blocks/case_studies.php:109 ../inc/vc-blocks/portfolio.php:96
+#: ../woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:61 ../inc/vc-blocks/blog_grid.php:62
+#: ../inc/vc-blocks/blog_masonry.php:118 ../inc/vc-blocks/blog_media.php:60
+#: ../inc/vc-blocks/case_studies.php:111 ../inc/vc-blocks/portfolio.php:98
+msgid "Modified Date"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:62 ../inc/vc-blocks/blog_grid.php:63
+#: ../inc/vc-blocks/blog_masonry.php:119 ../inc/vc-blocks/blog_media.php:61
+#: ../inc/vc-blocks/case_studies.php:112 ../inc/vc-blocks/portfolio.php:99
+msgid "Slug"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:63 ../inc/vc-blocks/blog_grid.php:64
+#: ../inc/vc-blocks/blog_masonry.php:120 ../inc/vc-blocks/blog_media.php:62
+#: ../inc/vc-blocks/case_studies.php:113 ../inc/vc-blocks/portfolio.php:100
+msgid "Random"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:69 ../inc/vc-blocks/blog_grid.php:71
+#: ../inc/vc-blocks/blog_masonry.php:127 ../inc/vc-blocks/blog_media.php:68
+#: ../inc/vc-blocks/case_studies.php:120 ../inc/vc-blocks/portfolio.php:107
+msgid "Direction"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:71 ../inc/vc-blocks/blog_grid.php:73
+#: ../inc/vc-blocks/blog_masonry.php:129 ../inc/vc-blocks/blog_media.php:70
+#: ../inc/vc-blocks/case_studies.php:122 ../inc/vc-blocks/portfolio.php:109
+msgid "Ascending or Descending order"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:73 ../inc/vc-blocks/blog_grid.php:75
+#: ../inc/vc-blocks/blog_masonry.php:131 ../inc/vc-blocks/blog_media.php:72
+#: ../inc/vc-blocks/case_studies.php:125 ../inc/vc-blocks/portfolio.php:112
+msgid "Descending"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_feeds.php:74 ../inc/vc-blocks/blog_grid.php:76
+#: ../inc/vc-blocks/blog_masonry.php:132 ../inc/vc-blocks/blog_media.php:73
+#: ../inc/vc-blocks/case_studies.php:126 ../inc/vc-blocks/portfolio.php:113
+msgid "Ascending"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_grid.php:27
+msgid "Blog Grid"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_grid.php:29
+msgid "A Grid of Posts"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_grid.php:84 ../inc/vc-blocks/blog_masonry.php:140
+#: ../inc/vc-blocks/case_studies.php:134 ../inc/vc-blocks/portfolio.php:159
+#: ../inc/vc-blocks/service_4.php:121
+msgid "Link To"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_grid.php:187 ../inc/vc-blocks/blog_grid.php:226
+#: ../inc/vc-blocks/blog_grid.php:289
+msgid "Read More"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_grid.php:188 ../inc/vc-blocks/blog_grid.php:227
+#: ../inc/vc-blocks/blog_grid.php:290
+msgid "Share"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:27
+msgid "Blog Masonry"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:29
+msgid "A Grid Masonry Posts"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:40 ../inc/vc-blocks/portfolio.php:42
+msgid "Add a title at your portfolio"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:56 ../inc/vc-blocks/portfolio.php:64
+msgid "Filter"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:58 ../inc/vc-blocks/portfolio.php:66
+msgid ""
+"Add a filter by category, disable it if you are showing only one category"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:65 ../inc/vc-blocks/case_studies.php:56
+#: ../inc/vc-blocks/gallery.php:39 ../inc/vc-blocks/portfolio.php:121
+msgid "Columns"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:67 ../inc/vc-blocks/case_studies.php:58
+#: ../inc/vc-blocks/gallery.php:41 ../inc/vc-blocks/portfolio.php:123
+msgid "Choose the number of columns"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:69 ../inc/vc-blocks/case_studies.php:60
+#: ../inc/vc-blocks/gallery.php:43 ../inc/vc-blocks/portfolio.php:125
+msgid "Select Column"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:70 ../inc/vc-blocks/carousel.php:45
+#: ../inc/vc-blocks/case_studies.php:62 ../inc/vc-blocks/gallery.php:44
+#: ../inc/vc-blocks/portfolio.php:126 ../inc/vc-blocks/portfolio.php:203
+msgid "Two"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:71 ../inc/vc-blocks/carousel.php:46
+#: ../inc/vc-blocks/case_studies.php:63 ../inc/vc-blocks/gallery.php:45
+#: ../inc/vc-blocks/portfolio.php:127 ../inc/vc-blocks/portfolio.php:204
+msgid "Three"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:72 ../inc/vc-blocks/carousel.php:47
+#: ../inc/vc-blocks/case_studies.php:64 ../inc/vc-blocks/gallery.php:46
+#: ../inc/vc-blocks/portfolio.php:128 ../inc/vc-blocks/portfolio.php:205
+msgid "Four"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:73 ../inc/vc-blocks/case_studies.php:65
+#: ../inc/vc-blocks/gallery.php:47 ../inc/vc-blocks/portfolio.php:129
+#: ../inc/vc-blocks/portfolio.php:207
+msgid "Six"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:80 ../inc/vc-blocks/case_studies.php:90
+#: ../inc/vc-blocks/gallery.php:64 ../inc/vc-blocks/portfolio.php:145
+msgid "Margin"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:82 ../inc/vc-blocks/case_studies.php:92
+#: ../inc/vc-blocks/gallery.php:66 ../inc/vc-blocks/portfolio.php:147
+msgid "Choose a margin between items"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:84 ../inc/vc-blocks/case_studies.php:94
+#: ../inc/vc-blocks/gallery.php:68 ../inc/vc-blocks/portfolio.php:149
+msgid "No Margin"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:85 ../inc/vc-blocks/case_studies.php:95
+#: ../inc/vc-blocks/gallery.php:69 ../inc/vc-blocks/portfolio.php:150
+msgid "Narrow"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:86 ../inc/vc-blocks/case_studies.php:96
+#: ../inc/vc-blocks/gallery.php:70 ../inc/vc-blocks/portfolio.php:151
+msgid "Large"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:94
+msgid "Only Title"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:96
+msgid ""
+"If you check this option, you will show only title on overlay. Other "
+"elements will be not shown"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:237 ../inc/vc-blocks/portfolio.php:368
+#: ../redux/inc/fields/border/field_border.php:125
+#: ../redux/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:310 ../inc/vc-blocks/blog_masonry.php:364
+#: ../inc/vc-blocks/blog_masonry.php:414 ../inc/vc-blocks/blog_media.php:178
+#: ../inc/vc-blocks/blog_media.php:211 ../inc/vc-blocks/blog_media.php:243
+msgid "read more"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_masonry.php:311 ../inc/vc-blocks/blog_masonry.php:365
+#: ../inc/vc-blocks/blog_masonry.php:415 ../inc/vc-blocks/blog_media.php:179
+#: ../inc/vc-blocks/blog_media.php:212 ../inc/vc-blocks/blog_media.php:244
+msgid "share"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_media.php:27
+msgid "Blog Media"
+msgstr ""
+
+#: ../inc/vc-blocks/blog_media.php:29
+msgid "A list of posts with preview)"
+msgstr ""
+
+#: ../inc/vc-blocks/callout.php:27
+msgid "Callout"
+msgstr ""
+
+#: ../inc/vc-blocks/callout.php:29
+msgid "A big button"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:27
+msgid "Carousel"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:29
+msgid "Add multiple images in carousel mode"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:39
+msgid "Images for row"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:41
+msgid "Choose the number of images to show in a row"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:43
+msgid "Select number"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:44 ../inc/vc-blocks/case_studies.php:61
+msgid "Full"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:48
+msgid "Five"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:56 ../inc/vc-blocks/case_list.php:115
+#: ../inc/vc-blocks/case_study.php:123 ../inc/vc-blocks/service_4.php:76
+#: ../redux/inc/fields/dimensions/field_dimensions.php:178
+#: ../redux/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:58
+msgid ""
+"Choose the number of images to show in a row, not works in full height mode"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:60 ../inc/vc-blocks/hero_head_1.php:41
+#: ../inc/vc-blocks/hero_head_2.php:41 ../inc/vc-blocks/service_4.php:80
+msgid "Select size"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:61 ../inc/vc-blocks/case_studies.php:82
+#: ../inc/vc-blocks/gallery.php:133 ../inc/vc-blocks/portfolio.php:178
+#: ../inc/vc-blocks/service_4.php:81
+msgid "XS"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:62 ../inc/vc-blocks/service_4.php:82
+msgid "S"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:63 ../inc/vc-blocks/case_studies.php:80
+#: ../inc/vc-blocks/gallery.php:131 ../inc/vc-blocks/portfolio.php:176
+#: ../inc/vc-blocks/service_4.php:83
+msgid "M"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:64 ../inc/vc-blocks/case_studies.php:79
+#: ../inc/vc-blocks/gallery.php:130 ../inc/vc-blocks/portfolio.php:175
+#: ../inc/vc-blocks/service_4.php:84
+msgid "L"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:65 ../inc/vc-blocks/case_studies.php:78
+#: ../inc/vc-blocks/gallery.php:129 ../inc/vc-blocks/portfolio.php:174
+#: ../inc/vc-blocks/service_4.php:85
+msgid "XL"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:73
+msgid "Full Height"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:75
+msgid "Enable full height size"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:82 ../inc/vc-blocks/gallery.php:78
+#: ../inc/vc-blocks/slider.php:39
+msgid "More"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:90 ../inc/vc-blocks/gallery.php:86
+#: ../inc/vc-blocks/item_gall.php:46 ../inc/vc-blocks/slider.php:47
+msgid "Thumbnails"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:92 ../inc/vc-blocks/gallery.php:88
+#: ../inc/vc-blocks/item_gall.php:48 ../inc/vc-blocks/slider.php:49
+msgid "Set your gallery thumbnails"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:99 ../inc/vc-blocks/gallery.php:95
+#: ../inc/vc-blocks/slider.php:87
+#: ../redux/inc/fields/background/field_background.php:314
+#: ../redux/inc/fields/media/field_media.php:198
+#: ../redux/inc/fields/slides/field_slides.php:126
+#: ../redux/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:101 ../inc/vc-blocks/case_list.php:109
+#: ../inc/vc-blocks/case_study.php:117 ../inc/vc-blocks/gallery.php:97
+#: ../inc/vc-blocks/image_frame.php:40 ../inc/vc-blocks/item_gall.php:56
+#: ../inc/vc-blocks/slider.php:89
+msgid "Upload your image"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:111 ../inc/vc-blocks/gallery.php:107
+msgid "Add a title for your image"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:118 ../inc/vc-blocks/gallery.php:114
+msgid "Category, Tags"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:120 ../inc/vc-blocks/gallery.php:116
+msgid "Add one or more tags comma separated"
+msgstr ""
+
+#: ../inc/vc-blocks/carousel.php:130 ../inc/vc-blocks/gallery.php:151
+#: ../inc/vc-blocks/slider.php:147
+msgid "if you use an external link you disable the lightbox on this image"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:27
+msgid "Case List"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:29
+msgid "Case with list of features"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:38 ../inc/vc-blocks/case_study.php:37
+msgid "Text Right"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:40 ../inc/vc-blocks/case_study.php:39
+msgid "Enable text on the right, leave empty to set text on the left"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:46 ../inc/vc-blocks/case_study.php:96
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:48
+msgid "The excerpt"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:55 ../inc/vc-blocks/case_study.php:45
+msgid "Margin Right"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:57 ../inc/vc-blocks/case_study.php:47
+msgid "The space on the right of the text block"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:59 ../inc/vc-blocks/case_list.php:80
+#: ../inc/vc-blocks/case_study.php:49 ../inc/vc-blocks/case_study.php:70
+#: ../inc/vc-blocks/hero_head_2.php:64
+msgid "No Spacing"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:60 ../inc/vc-blocks/case_list.php:81
+#: ../inc/vc-blocks/case_study.php:50 ../inc/vc-blocks/case_study.php:71
+#: ../inc/vc-blocks/hero_head_2.php:65
+msgid "10 Pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:61 ../inc/vc-blocks/case_list.php:82
+#: ../inc/vc-blocks/case_study.php:51 ../inc/vc-blocks/case_study.php:72
+#: ../inc/vc-blocks/hero_head_2.php:66
+msgid "20 Pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:62 ../inc/vc-blocks/case_list.php:83
+#: ../inc/vc-blocks/case_study.php:52 ../inc/vc-blocks/case_study.php:73
+#: ../inc/vc-blocks/hero_head_2.php:67
+msgid "30 Pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:63 ../inc/vc-blocks/case_list.php:84
+#: ../inc/vc-blocks/case_study.php:53 ../inc/vc-blocks/case_study.php:74
+#: ../inc/vc-blocks/hero_head_2.php:68
+msgid "40 Pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:64 ../inc/vc-blocks/case_list.php:85
+#: ../inc/vc-blocks/case_study.php:54 ../inc/vc-blocks/case_study.php:75
+#: ../inc/vc-blocks/hero_head_2.php:69
+msgid "50 Pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:65 ../inc/vc-blocks/case_list.php:86
+#: ../inc/vc-blocks/case_study.php:55 ../inc/vc-blocks/case_study.php:76
+#: ../inc/vc-blocks/hero_head_2.php:70
+msgid "60 Pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:66 ../inc/vc-blocks/case_list.php:87
+#: ../inc/vc-blocks/case_study.php:56 ../inc/vc-blocks/case_study.php:77
+#: ../inc/vc-blocks/hero_head_2.php:71
+msgid "70 Pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:67 ../inc/vc-blocks/case_list.php:88
+#: ../inc/vc-blocks/case_study.php:57 ../inc/vc-blocks/case_study.php:78
+#: ../inc/vc-blocks/hero_head_2.php:72
+msgid "80 Pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:68 ../inc/vc-blocks/case_list.php:89
+#: ../inc/vc-blocks/case_study.php:58 ../inc/vc-blocks/case_study.php:79
+#: ../inc/vc-blocks/hero_head_2.php:73
+msgid "90 Pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:69 ../inc/vc-blocks/case_list.php:90
+#: ../inc/vc-blocks/case_study.php:59 ../inc/vc-blocks/case_study.php:80
+msgid "100 Pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:76 ../inc/vc-blocks/case_study.php:66
+msgid "Margin Left"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:78 ../inc/vc-blocks/case_study.php:68
+msgid "The space on the left of the text block"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:98 ../inc/vc-blocks/case_study.php:106
+msgid "Images"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:100 ../inc/vc-blocks/case_study.php:108
+msgid "Add and manage multiple images"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:107 ../inc/vc-blocks/case_study.php:115
+#: ../inc/vc-blocks/image_frame.php:38 ../inc/vc-blocks/item_gall.php:54
+#: ../inc/vc-blocks/service_4.php:38 ../inc/vc-blocks/team.php:38
+msgid "Image"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:117 ../inc/vc-blocks/case_study.php:125
+msgid "The height size (px), only integer value allow"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:124 ../inc/vc-blocks/case_study.php:132
+#: ../redux/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:126 ../inc/vc-blocks/case_study.php:134
+msgid "The width size (px), only integer value allow"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:133 ../inc/vc-blocks/case_study.php:141
+msgid "Top Position"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:135 ../inc/vc-blocks/case_study.php:143
+msgid ""
+"The top position (px) compared to the container, only integer (+/-) value "
+"allow, leave empty if you have just set the bottom position"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:142 ../inc/vc-blocks/case_study.php:150
+msgid "Left Position"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:144 ../inc/vc-blocks/case_study.php:152
+msgid ""
+"The left position (px) compared to the container, only integer (+/-) value "
+"allow, leave empty if you have just set the right position"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:151 ../inc/vc-blocks/case_study.php:159
+msgid "Right Position"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:153 ../inc/vc-blocks/case_study.php:161
+msgid ""
+"The right position (px) compared to the container, only integer (+/-) value "
+"allow, leave empty if you have just set the left position"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:160 ../inc/vc-blocks/case_study.php:168
+msgid "Bottom Position"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:162 ../inc/vc-blocks/case_study.php:170
+msgid ""
+"The bottom position (px) compared to the container, only integer (+/-) value "
+"allow, leave empty if you have just set the top position"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:173 ../inc/vc-blocks/pricing.php:68
+msgid "Features"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:175
+msgid "Add and sort multiple main features"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:180
+msgid "Feature"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:182
+msgid "A main feature"
+msgstr ""
+
+#: ../inc/vc-blocks/case_list.php:191
+msgid "add a link on your feature"
+msgstr ""
+
+#: ../inc/vc-blocks/case_studies.php:29
+msgid "A list of cases"
+msgstr ""
+
+#: ../inc/vc-blocks/case_studies.php:50
+msgid ""
+"Use an integer value to limit the number of posts displayed, leave it blank "
+"to display all cases"
+msgstr ""
+
+#: ../inc/vc-blocks/case_studies.php:73 ../inc/vc-blocks/gallery.php:124
+#: ../inc/vc-blocks/hero_head_1.php:38 ../inc/vc-blocks/hero_head_2.php:38
+#: ../inc/vc-blocks/portfolio.php:169
+#: ../redux/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: ../inc/vc-blocks/case_studies.php:75 ../inc/vc-blocks/gallery.php:126
+msgid "Choose the size of your item"
+msgstr ""
+
+#: ../inc/vc-blocks/case_studies.php:77 ../inc/vc-blocks/gallery.php:128
+#: ../inc/vc-blocks/portfolio.php:173
+msgid "Select Size"
+msgstr ""
+
+#: ../inc/vc-blocks/case_studies.php:81 ../inc/vc-blocks/gallery.php:132
+#: ../inc/vc-blocks/portfolio.php:177
+msgid "S "
+msgstr ""
+
+#: ../inc/vc-blocks/case_studies.php:106
+msgid "Order your case by title, date, etc"
+msgstr ""
+
+#: ../inc/vc-blocks/case_studies.php:108 ../inc/vc-blocks/portfolio.php:95
+msgid "Select order"
+msgstr ""
+
+#: ../inc/vc-blocks/case_studies.php:124 ../inc/vc-blocks/portfolio.php:111
+msgid "Select direction"
+msgstr ""
+
+#: ../inc/vc-blocks/case_studies.php:325
+msgid "No cases found here!"
+msgstr ""
+
+#: ../inc/vc-blocks/case_study.php:29
+msgid "Case Study, add text and multiple images"
+msgstr ""
+
+#: ../inc/vc-blocks/case_study.php:89
+msgid "The title"
+msgstr ""
+
+#: ../inc/vc-blocks/case_study.php:98
+msgid "The excerpt, max 20 words will be shown"
+msgstr ""
+
+#: ../inc/vc-blocks/clients.php:27
+msgid "Clients"
+msgstr ""
+
+#: ../inc/vc-blocks/clients.php:29
+msgid "A Clients List"
+msgstr ""
+
+#: ../inc/vc-blocks/clients.php:38
+msgid "Logo"
+msgstr ""
+
+#: ../inc/vc-blocks/gallery.php:27
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/vc-blocks/gallery.php:29
+msgid "Add multiple images"
+msgstr ""
+
+#: ../inc/vc-blocks/gallery.php:55 ../inc/vc-blocks/portfolio.php:137
+msgid "Real Images"
+msgstr ""
+
+#: ../inc/vc-blocks/gallery.php:57
+msgid "If you check this option the images will not be cropped"
+msgstr ""
+
+#: ../inc/vc-blocks/gallery.php:140
+msgid "Double Size"
+msgstr ""
+
+#: ../inc/vc-blocks/gallery.php:142
+msgid "Set the item double"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:27
+msgid "Hero Head 1"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:29
+msgid "Hero Heading with Description"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:42
+msgid "Extra Large Head"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:43
+msgid "Large Head"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:44 ../inc/vc-blocks/hero_head_2.php:42
+#: ../inc/vc-blocks/slider.php:102
+msgid "H1"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:45 ../inc/vc-blocks/hero_head_2.php:43
+#: ../inc/vc-blocks/slider.php:103
+msgid "H2"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:46 ../inc/vc-blocks/hero_head_2.php:44
+#: ../inc/vc-blocks/slider.php:104
+msgid "H3"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:47 ../inc/vc-blocks/hero_head_2.php:45
+#: ../inc/vc-blocks/slider.php:105
+msgid "H5"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:48 ../inc/vc-blocks/hero_head_2.php:46
+#: ../inc/vc-blocks/slider.php:106
+msgid "H4"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:49 ../inc/vc-blocks/hero_head_2.php:47
+#: ../inc/vc-blocks/slider.php:107
+msgid "H6"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:64 ../inc/vc-blocks/separator.php:27
+msgid "Separator"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:66
+msgid "Add a red line separator"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:73 ../inc/vc-blocks/item_gall.php:37
+#: ../inc/vc-blocks/page_head.php:47 ../inc/vc-blocks/service_1.php:45
+#: ../inc/vc-blocks/service_2.php:82 ../inc/vc-blocks/service_3.php:58
+#: ../inc/vc-blocks/slider.php:137
+#: ../redux/inc/fields/slides/field_slides.php:149
+#: ../redux/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:80
+msgid "Use Icon"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:82
+msgid "check to use add an icon"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:90 ../inc/vc-blocks/service_2.php:55
+#: ../inc/vc-blocks/service_3.php:38
+msgid "Icon"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:92
+msgid "Select the icon (do not work if you uncheck the control above)"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:104 ../inc/vc-blocks/service_2.php:69
+msgid "Link Icon"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:106 ../inc/vc-blocks/service_2.php:71
+msgid "Add an url for your icon"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:113
+msgid "Label"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_1.php:115
+msgid "Add a corner label"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_2.php:27
+msgid "Hero Head 2"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_2.php:29
+msgid "Hero Heading with Details"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_2.php:61
+msgid "Spacing"
+msgstr ""
+
+#: ../inc/vc-blocks/hero_head_2.php:87
+msgid "Details"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:27
+msgid "Image Frame"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:29
+msgid "Add an image with frame"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:46 ../inc/vc-blocks/service_4.php:46
+#: ../inc/vc-blocks/setup.php:46
+msgid "Overlay Effect"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:48 ../inc/vc-blocks/setup.php:48
+msgid "Add an overlay effect on your row"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:75
+msgid "Customize the Image"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:76
+msgid "Leave the fields in blank to use the full image size"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:78 ../inc/vc-blocks/image_frame.php:86
+#: ../inc/vc-blocks/image_frame.php:94 ../inc/vc-blocks/image_frame.php:109
+#: ../inc/vc-blocks/setup.php:143
+msgid "Design Options"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:83
+msgid "Image Width"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:85 ../inc/vc-blocks/image_frame.php:93
+msgid "Use an integer value (es. 800), it will be converted in pixels"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:91
+msgid "Image Height"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:99
+msgid "Frame Image"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:101
+msgid "Add a border frame to image"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:106
+msgid "Image Crop"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:108
+msgid "To crop the image to your sizes (you have to compile both sizes)"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:117
+msgid "The caption title"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:123
+msgid "Caption Color"
+msgstr ""
+
+#: ../inc/vc-blocks/image_frame.php:126
+msgid "You could need to change the caption color on the base of your image."
+msgstr ""
+
+#: ../inc/vc-blocks/item_gall.php:27
+msgid "Item Gallery"
+msgstr ""
+
+#: ../inc/vc-blocks/item_gall.php:29
+msgid "Gallery square with description"
+msgstr ""
+
+#: ../inc/vc-blocks/item_gall.php:39
+msgid "Step description"
+msgstr ""
+
+#: ../inc/vc-blocks/page_head.php:27
+msgid "Page Head"
+msgstr ""
+
+#: ../inc/vc-blocks/page_head.php:29
+msgid "Page Heading with Description"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:27
+msgid "Works Grid"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:29
+msgid "A Grid of Projects"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:50
+msgid "Choose the layout style"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:52
+msgid "Select Type"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:53
+msgid "Grid"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:54
+msgid "Masonry"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:55
+msgid "Packery"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:56
+msgid "Cards"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:84
+msgid ""
+"Use an integer value to limit the number of posts displayed, leave it blank "
+"to display all projects"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:139
+msgid ""
+"If you check this option the images will not be cropped (not work in grid "
+"mode)"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:171
+msgid "Choose the size of your item. No works in Masonry mode"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:180
+msgid "Grid options"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:188
+msgid "Size Sequence"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:190
+msgid ""
+"Paste your sequence sizes comma separated. Values permitted: XL,L,M,S,XS. "
+"The field is case unsensitive. Not work in Grid mode"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:191
+msgid "Masonry Options"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:199
+msgid "Packery Sequence"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:202
+msgid "Select Value"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:206
+msgid "Five "
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:209
+msgid ""
+"Choose the number of big item sequence. Ex. if you set \"3\", the layout "
+"will show a big item for each 3 items"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:210
+msgid "Packery Options"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:596
+msgid "view project"
+msgstr ""
+
+#: ../inc/vc-blocks/portfolio.php:626
+msgid "No projects found here!"
+msgstr ""
+
+#: ../inc/vc-blocks/pricing.php:27
+msgid "Pricing Table"
+msgstr ""
+
+#: ../inc/vc-blocks/pricing.php:29
+msgid "A composable pricing table"
+msgstr ""
+
+#: ../inc/vc-blocks/pricing.php:39
+msgid "Pricing Title"
+msgstr ""
+
+#: ../inc/vc-blocks/pricing.php:46
+msgid "Featured"
+msgstr ""
+
+#: ../inc/vc-blocks/pricing.php:48
+msgid "Mark this item as featured"
+msgstr ""
+
+#: ../inc/vc-blocks/pricing.php:54 ../woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: ../inc/vc-blocks/pricing.php:61
+msgid "Currency"
+msgstr ""
+
+#: ../inc/vc-blocks/pricing.php:70
+msgid "Add and sort multiple features for your pricing table"
+msgstr ""
+
+#: ../inc/vc-blocks/pricing.php:76
+msgid "Feature Label"
+msgstr ""
+
+#: ../inc/vc-blocks/pricing.php:111
+msgid "Choose a Title"
+msgstr ""
+
+#: ../inc/vc-blocks/quotes.php:27 ../inc/vc-blocks/quotes.php:38
+msgid "Quotes"
+msgstr ""
+
+#: ../inc/vc-blocks/quotes.php:29
+msgid "A carousel of quotes"
+msgstr ""
+
+#: ../inc/vc-blocks/quotes.php:40
+msgid "Add and reorder your quotes"
+msgstr ""
+
+#: ../inc/vc-blocks/quotes.php:46
+msgid "Quote"
+msgstr ""
+
+#: ../inc/vc-blocks/quotes.php:53
+msgid "Author"
+msgstr ""
+
+#: ../inc/vc-blocks/quotes.php:62
+msgid "Enable Autoplay"
+msgstr ""
+
+#: ../inc/vc-blocks/quotes.php:69
+msgid "Slide Delay"
+msgstr ""
+
+#: ../inc/vc-blocks/quotes.php:71
+msgid "Use an integer value for milliseconds (default value: 5000)"
+msgstr ""
+
+#: ../inc/vc-blocks/separator.php:29
+msgid "A line separator"
+msgstr ""
+
+#: ../inc/vc-blocks/separator.php:37
+msgid "Vertical Orientation"
+msgstr ""
+
+#: ../inc/vc-blocks/separator.php:39
+msgid "choose the line orientation"
+msgstr ""
+
+#: ../inc/vc-blocks/separator.php:44
+msgid "Full Width"
+msgstr ""
+
+#: ../inc/vc-blocks/separator.php:46
+msgid "Not works in vertical mode"
+msgstr ""
+
+#: ../inc/vc-blocks/service_1.php:27
+msgid "Service 1"
+msgstr ""
+
+#: ../inc/vc-blocks/service_1.php:29
+msgid "Your standard service"
+msgstr ""
+
+#: ../inc/vc-blocks/service_1.php:40 ../inc/vc-blocks/service_3.php:52
+#: ../inc/vc-blocks/service_4.php:93
+msgid "Service Title"
+msgstr ""
+
+#: ../inc/vc-blocks/service_1.php:47 ../inc/vc-blocks/service_3.php:60
+#: ../inc/vc-blocks/service_4.php:115
+msgid "Service Description"
+msgstr ""
+
+#: ../inc/vc-blocks/service_2.php:27
+msgid "Service 2"
+msgstr ""
+
+#: ../inc/vc-blocks/service_2.php:29
+msgid "Your service with label"
+msgstr ""
+
+#: ../inc/vc-blocks/service_2.php:37
+msgid "label"
+msgstr ""
+
+#: ../inc/vc-blocks/service_2.php:39
+msgid "Label in rotation"
+msgstr ""
+
+#: ../inc/vc-blocks/service_2.php:47
+msgid "Icons with link"
+msgstr ""
+
+#: ../inc/vc-blocks/service_2.php:49
+msgid "Set your list of icons"
+msgstr ""
+
+#: ../inc/vc-blocks/service_2.php:57
+msgid "Select the icon"
+msgstr ""
+
+#: ../inc/vc-blocks/service_3.php:27
+msgid "Service 3"
+msgstr ""
+
+#: ../inc/vc-blocks/service_3.php:29
+msgid "Your service with icon"
+msgstr ""
+
+#: ../inc/vc-blocks/service_3.php:40
+msgid "Select the service icon"
+msgstr ""
+
+#: ../inc/vc-blocks/service_4.php:27
+msgid "Service 4"
+msgstr ""
+
+#: ../inc/vc-blocks/service_4.php:29
+msgid "Your box with background"
+msgstr ""
+
+#: ../inc/vc-blocks/service_4.php:40
+msgid "Upload your background"
+msgstr ""
+
+#: ../inc/vc-blocks/service_4.php:48
+msgid "Add an overlay effect over your box"
+msgstr ""
+
+#: ../inc/vc-blocks/service_4.php:78
+msgid "Set the height of the box"
+msgstr ""
+
+#: ../inc/vc-blocks/service_4.php:100
+msgid "Title color"
+msgstr ""
+
+#: ../inc/vc-blocks/service_4.php:102
+msgid "Set the color for title"
+msgstr ""
+
+#: ../inc/vc-blocks/service_4.php:104
+msgid "Select color"
+msgstr ""
+
+#: ../inc/vc-blocks/service_4.php:107
+msgid "Grey"
+msgstr ""
+
+#: ../inc/vc-blocks/service_4.php:113
+msgid "Sub title"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:37
+msgid "Boxed Container"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:39 ../redux/framework.php:1739
+msgid "Enable"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:78
+msgid "Choose the color text inside"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:89
+msgid "Onepage Menu"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:91
+msgid ""
+"Choose a menu label if you want to link this row to a onepage menu button"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:97
+msgid "Columns gap"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:114
+msgid "Select gap between columns in row."
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:120
+msgid "Row ID"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:122
+msgid ""
+"Enter row ID (Note: make sure it is unique and valid according to <a href="
+"\"http://www.w3schools.com/tags/att_global_id.asp\" target=\"_blank\">w3c "
+"specification</a>)."
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:130
+msgid "Extra class name"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:132
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:139
+msgid "BG Position"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:141
+msgid "Set the position of background"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:158
+#: ../redux/inc/fields/typography/field_typography.php:342
+#: ../redux/inc/fields/typography/field_typography.php:343
+#: ../redux/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:161
+msgid "Auto"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:162
+#: ../redux/inc/fields/border/field_border.php:159
+#: ../redux/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:163
+msgid "Center"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:164
+#: ../redux/inc/fields/border/field_border.php:145
+#: ../redux/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:165
+msgid "Justified"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:173
+msgid "CSS Animation"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:176
+msgid "No"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:177
+msgid "Top to bottom"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:178
+msgid "Bottom to top"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:179
+msgid "Left to right"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:180
+msgid "Right to left"
+msgstr ""
+
+#: ../inc/vc-blocks/setup.php:181
+msgid "Appear from center"
+msgstr ""
+
+#: ../inc/vc-blocks/sidebar.php:29
+msgid "Include your sidebar widgets"
+msgstr ""
+
+#: ../inc/vc-blocks/sidebar.php:42
+msgid "Select a widget area"
+msgstr ""
+
+#: ../inc/vc-blocks/sidebar.php:54
+msgid "Enter the name slug of your area widgets. (ex. Blog)"
+msgstr ""
+
+#: ../inc/vc-blocks/slider.php:27
+msgid "Slider Hero"
+msgstr ""
+
+#: ../inc/vc-blocks/slider.php:29
+msgid "Add multiple images in slider hero mode"
+msgstr ""
+
+#: ../inc/vc-blocks/slider.php:56
+msgid "Overlay background"
+msgstr ""
+
+#: ../inc/vc-blocks/slider.php:58
+msgid "Add an overlay effect over the slide"
+msgstr ""
+
+#: ../inc/vc-blocks/slider.php:97
+msgid "Heading"
+msgstr ""
+
+#: ../inc/vc-blocks/slider.php:99
+msgid "Choose the size of your title"
+msgstr ""
+
+#: ../inc/vc-blocks/slider.php:101
+msgid "Set size"
+msgstr ""
+
+#: ../inc/vc-blocks/slider.php:115
+msgid "Color"
+msgstr ""
+
+#: ../inc/vc-blocks/slider.php:117
+msgid "Choose the color of your headings"
+msgstr ""
+
+#: ../inc/vc-blocks/slider.php:119
+msgid "Set color"
+msgstr ""
+
+#: ../inc/vc-blocks/team.php:27
+msgid "Team Member"
+msgstr ""
+
+#: ../inc/vc-blocks/team.php:29
+msgid "Create your team grid"
+msgstr ""
+
+#: ../inc/vc-blocks/team.php:40
+msgid "The member Image"
+msgstr ""
+
+#: ../inc/vc-blocks/team.php:45
+#: ../redux/inc/welcome/views/status_report.php:710
+#: ../woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: ../inc/vc-blocks/team.php:54
+msgid "Add the member Behance url (or leave it blank to disable the icon)"
+msgstr ""
+
+#: ../inc/vc-blocks/team.php:61
+msgid "Add the member Twitter url (or leave it blank to disable the icon)"
+msgstr ""
+
+#: ../inc/vc-blocks/team.php:68
+msgid "Add the member Facebook url (or leave it blank to disable the icon)"
+msgstr ""
+
+#: ../inc/vc-blocks/team.php:73
+msgid "Dribble"
+msgstr ""
+
+#: ../inc/vc-blocks/team.php:75
+msgid "Add the member Dribble url (or leave it blank to disable the icon)"
+msgstr ""
+
+#: ../inc/widgets/mega-posts.php:18
+msgid "Display the posts as you want"
+msgstr ""
+
+#: ../inc/widgets/mega-posts.php:20
+msgid "UN: Mega Posts"
+msgstr ""
+
+#: ../inc/widgets/mega-posts.php:134
+msgid "Mega Posts"
+msgstr ""
+
+#: ../inc/widgets/mega-posts.php:149 ../inc/widgets/mega-projects.php:153
+msgid "Category Filter:"
+msgstr ""
+
+#: ../inc/widgets/mega-projects.php:18
+msgid "Display the projects as you want"
+msgstr ""
+
+#: ../inc/widgets/mega-projects.php:20
+msgid "UN: Mega Projects"
+msgstr ""
+
+#: ../inc/widgets/mega-projects.php:138
+msgid "Mega Projects"
+msgstr ""
+
+#: ../redux/framework.php:226
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../redux/framework.php:226 ../redux/inc/welcome/welcome.php:199
+msgid "Redux Framework"
+msgstr ""
+
+#: ../redux/framework.php:1744
+msgid "Disable"
+msgstr ""
+
+#: ../redux/framework.php:1750
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../redux/framework.php:1752
+msgid "clicking"
+msgstr ""
+
+#: ../redux/framework.php:1756
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ../redux/framework.php:1761
+msgid "Hints"
+msgstr ""
+
+#: ../redux/framework.php:2767
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: ../redux/framework.php:2776
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: ../redux/framework.php:2852
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: ../redux/core/enqueue.php:453
+#: ../redux/inc/extensions/customizer/extension_customizer.php:687
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../redux/core/enqueue.php:461
+#: ../redux/inc/extensions/customizer/extension_customizer.php:688
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../redux/core/enqueue.php:469
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../redux/core/enqueue.php:477
+#: ../redux/inc/extensions/customizer/extension_customizer.php:689
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../redux/core/enqueue.php:484
+msgid "Please Wait"
+msgstr ""
+
+#: ../redux/core/enqueue.php:495
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: ../redux/core/enqueue.php:496
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: ../redux/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../redux/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../redux/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../redux/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../redux/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: ../redux/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: ../redux/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: ../redux/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: ../redux/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: ../redux/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: ../redux/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: ../redux/inc/class.redux_filesystem.php:31
+#: ../redux/inc/class.redux_filesystem.php:60
+#: ../redux/inc/class.redux_filesystem.php:270
+msgid "File Permission Issues"
+msgstr ""
+
+#: ../redux/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: ../redux/inc/class.redux_filesystem.php:60
+#: ../redux/inc/class.redux_filesystem.php:270
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: ../redux/inc/class.redux_helpers.php:604
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: ../redux/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../redux/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../redux/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ../redux/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../redux/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../redux/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: ../redux/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../redux/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ../redux/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ../redux/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../redux/inc/tracking.php:154 ../redux/inc/welcome/welcome.php:223
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../redux/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../redux/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ../redux/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ../redux/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../redux/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../redux/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ../redux/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ../redux/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../redux/inc/tracking.php:157
+#: ../woocommerce/myaccount/form-edit-account.php:33
+#: ../woocommerce/myaccount/form-login.php:82
+msgid "Email address"
+msgstr ""
+
+#: ../redux/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ../redux/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: ../redux/inc/extensions/customizer/extension_customizer.php:722
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../redux/inc/extensions/customizer/extension_customizer.php:723
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../redux/inc/extensions/customizer/extension_customizer.php:724
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../redux/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: ../redux/inc/extensions/customizer/inc/customizer_panel.php:114
+#: ../redux/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: ../redux/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: ../redux/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: ../redux/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: ../redux/inc/extensions/options_object/extension_options_object.php:82
+#: ../redux/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: ../redux/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../redux/inc/fields/background/field_background.php:124
+#: ../redux/inc/fields/color/field_color.php:73
+#: ../redux/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../redux/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: ../redux/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../redux/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../redux/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../redux/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../redux/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../redux/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../redux/inc/fields/background/field_background.php:277
+#: ../redux/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ../redux/inc/fields/background/field_background.php:321
+#: ../redux/inc/fields/media/field_media.php:205
+#: ../redux/inc/fields/multi_text/field_multi_text.php:69
+#: ../redux/inc/fields/multi_text/field_multi_text.php:73
+#: ../redux/inc/fields/multi_text/field_multi_text.php:76
+#: ../redux/inc/fields/slides/field_slides.php:133
+#: ../redux/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ../redux/inc/fields/border/field_border.php:152
+#: ../redux/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../redux/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: ../redux/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../redux/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../redux/inc/fields/dimensions/field_dimensions.php:189
+#: ../redux/inc/fields/dimensions/field_dimensions.php:190
+#: ../redux/inc/fields/spacing/field_spacing.php:245
+#: ../redux/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../redux/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../redux/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../redux/inc/fields/link_color/field_link_color.php:88
+msgid "Regular"
+msgstr ""
+
+#: ../redux/inc/fields/link_color/field_link_color.php:92
+msgid "Hover"
+msgstr ""
+
+#: ../redux/inc/fields/link_color/field_link_color.php:96
+msgid "Visited"
+msgstr ""
+
+#: ../redux/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../redux/inc/fields/password/field_password.php:62
+#: ../woocommerce/auth/form-login.php:30
+#: ../woocommerce/global/form-login.php:30
+#: ../woocommerce/myaccount/form-login.php:39
+#: ../woocommerce/myaccount/form-login.php:89
+msgid "Password"
+msgstr ""
+
+#: ../redux/inc/fields/password/field_password.php:63
+#: ../woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr ""
+
+#: ../redux/inc/fields/select/field_select.php:83
+#: ../redux/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: ../redux/inc/fields/select/field_select.php:134
+#: ../redux/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../redux/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../redux/inc/fields/slides/field_slides.php:73
+#: ../redux/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../redux/inc/fields/slides/field_slides.php:153
+#: ../redux/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../redux/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../redux/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../redux/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:258
+#: ../redux/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:273
+#: ../redux/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:365
+#: ../redux/inc/fields/typography/field_typography.php:366
+#: ../redux/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:388
+#: ../redux/inc/fields/typography/field_typography.php:389
+#: ../redux/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:408
+#: ../redux/inc/fields/typography/field_typography.php:409
+#: ../redux/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:432
+#: ../redux/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:441
+#: ../redux/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:450
+#: ../redux/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:459
+#: ../redux/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../redux/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: ../redux/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: ../redux/inc/validation/color/validation_color.php:15
+#: ../redux/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../redux/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../redux/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../redux/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: ../redux/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../redux/inc/validation/email/validation_email.php:16
+#: ../redux/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../redux/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../redux/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../redux/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../redux/inc/validation/numeric/validation_numeric.php:16
+#: ../redux/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../redux/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: ../redux/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../redux/inc/welcome/welcome.php:102
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform"
+"\" target=\"_blank\" class=\"redux-rating-link\" data-rated="
+"\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank "
+"you from Redux in advance!"
+msgstr ""
+
+#: ../redux/inc/welcome/welcome.php:177
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: ../redux/inc/welcome/welcome.php:199
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ../redux/inc/welcome/welcome.php:207
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ../redux/inc/welcome/welcome.php:215
+msgid "Get Support"
+msgstr ""
+
+#: ../redux/inc/welcome/welcome.php:232
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ../redux/inc/welcome/welcome.php:240
+msgid "Redux Framework Status"
+msgstr ""
+
+#: ../redux/inc/welcome/welcome.php:349
+msgid "Credits"
+msgstr ""
+
+#: ../redux/inc/welcome/welcome.php:512
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../redux/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ../redux/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: ../redux/inc/welcome/views/about.php:8
+#: ../redux/inc/welcome/views/changelog.php:10
+#: ../redux/inc/welcome/views/credits.php:10
+#: ../redux/inc/welcome/views/extensions.php:81
+#: ../redux/inc/welcome/views/status_report.php:34
+#: ../redux/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../redux/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: ../redux/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: ../redux/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: ../redux/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: ../redux/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: ../redux/inc/welcome/views/changelog.php:5
+#: ../redux/inc/welcome/views/status_report.php:30
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: ../redux/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: ../redux/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: ../redux/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: ../redux/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: ../redux/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: ../redux/inc/welcome/views/extensions.php:89
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:43
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:434
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:479
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:482
+#: ../redux/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:495
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:553
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr ""
+
+#: ../redux/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:4
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:19
+#: ../redux/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:21
+#: ../redux/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:63
+msgid "User"
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:92
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:101
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:105
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: ../redux/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: ../redux/templates/panel/footer.tpl.php:50
+msgid "Save Changes"
+msgstr ""
+
+#: ../redux/templates/panel/footer.tpl.php:54
+msgid "Reset Section"
+msgstr ""
+
+#: ../redux/templates/panel/footer.tpl.php:55
+msgid "Reset All"
+msgstr ""
+
+#: ../redux/templates/panel/footer.tpl.php:60
+msgid "Working..."
+msgstr ""
+
+#: ../redux/templates/panel/header.tpl.php:11
+#: ../redux/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../redux/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: ../redux/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: ../redux/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: ../redux/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: ../redux/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: ../redux/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: ../woocommerce/product-searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:81
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:82
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:83
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:84
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:85
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:86
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:90
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:99
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/auth/form-grant-access.php:16
+#: ../woocommerce/auth/form-login.php:18
+#, php-format
+msgid "%s would like to connect to your store"
+msgstr ""
+
+#: ../woocommerce/auth/form-grant-access.php:20
+#, php-format
+msgid ""
+"This will give \"%s\" <strong>%s</strong> access which will allow it to:"
+msgstr ""
+
+#: ../woocommerce/auth/form-grant-access.php:30
+#, php-format
+msgid "Logged in as %s"
+msgstr ""
+
+#: ../woocommerce/auth/form-grant-access.php:30
+msgid "Logout"
+msgstr ""
+
+#: ../woocommerce/auth/form-grant-access.php:34
+msgid "Approve"
+msgstr ""
+
+#: ../woocommerce/auth/form-grant-access.php:35
+msgid "Deny"
+msgstr ""
+
+#: ../woocommerce/auth/form-login.php:22
+#, php-format
+msgid ""
+"To connect to %1$s you need to be logged in. Log in to your store below, or "
+"%2$scancel and return to %1$s%3$s"
+msgstr ""
+
+#: ../woocommerce/auth/form-login.php:26
+#: ../woocommerce/myaccount/form-login.php:35
+msgid "Username or email address"
+msgstr ""
+
+#: ../woocommerce/auth/header.php:20
+msgid "Application Authentication Request"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:22
+#: ../woocommerce/cart/cart-shipping.php:97
+#: ../woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:76
+#: ../woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:24 ../woocommerce/cart/mini-cart.php:71
+#: ../woocommerce/checkout/review-order.php:50
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:78 ../woocommerce/cart/cart.php:30
+#: ../woocommerce/checkout/review-order.php:18
+#: ../woocommerce/checkout/review-order.php:97
+#: ../woocommerce/myaccount/my-orders.php:35
+#: ../woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:27 ../woocommerce/checkout/form-pay.php:20
+#: ../woocommerce/checkout/review-order.php:17
+#: ../woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:50 ../woocommerce/cart/mini-cart.php:40
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:82
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:128
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:63
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:76
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:77
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/proceed-to-checkout-button.php:16
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:18
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:21
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:22
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:80
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:90
+msgid "Pay for order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:58
+#: ../woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:30
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:32
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:43
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:53
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:28
+#: ../woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:36
+#: ../woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:26
+#: ../woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:42
+#: ../woocommerce/myaccount/form-login.php:49
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:46
+#: ../woocommerce/myaccount/form-login.php:53
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/global/quantity-input.php:15
+msgid "quantity"
+msgstr ""
+
+#: ../woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:33
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:35
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:37
+#, php-format
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:41
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:23
+msgid "First name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:27
+msgid "Last name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:41
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:45
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:49
+msgid "Confirm New Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:16
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/order/order-details-customer.php:49
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:16
+#: ../woocommerce/myaccount/my-address.php:20
+#: ../woocommerce/order/order-details-customer.php:60
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:28
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:66
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:96
+msgid "Anti-spam"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:50
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:50
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:20
+msgid "Available Downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:49
+msgid "#"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:20
+#, php-format
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:24
+#: ../woocommerce/order/tracking.php:25
+msgid "Order Updates"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:30
+#: ../woocommerce/order/tracking.php:31
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:20
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr ""
+
+#: ../woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:14
+msgid "Customer Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:19
+msgid "Note:"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:26
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:33
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details-customer.php:52
+#: ../woocommerce/order/order-details-customer.php:63
+#: ../woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:16
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:14
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:29
+msgid "Weight"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:36
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/single-product/product-image.php:42
+msgid "Placeholder"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:29
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:30
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:37
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:46
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:23
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:34
+msgid "Clear selection"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""

@@ -1,0 +1,166 @@
+0000.000 (0) Opened log file at time: Sun, 27 Dec 2015 04:07:55 +0000 on http://devmysite.info/vs
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4 PHP: 5.3.29 (Linux host.mydnsserver.ca 2.6.18-348.6.1.el5 #1 SMP Tue May 21 15:29:55 EDT 2013 x86_64) MySQL: 5.6.27 Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4 PHP/5.3.29 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 53.9M | 54.3M) multisite: N mcrypt: Y LANG: en_US.UTF-8 ZipArchive::addFile: Y
+0000.020 (0) Free space on disk containing Updraft's temporary directory: 110005.6 Mb
+0000.022 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.035 (0) Requesting semaphore lock (fd)
+0000.053 (0) Set semaphore last lock (fd) time to 2015-12-27 04:07:55
+0000.055 (0) Semaphore lock (fd) complete
+0000.058 (0) Backup run: resumption=0, nonce=922916c62a20, begun at=1451189275 (0s ago), job type=backup
+0000.060 (0) Scheduling a resumption (1) after 300 seconds (1451189575) in case this run gets aborted
+0000.084 (0) Checking if we have a zip executable available
+0000.086 (0) Creation of backups of directories: beginning
+0000.089 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0002.124 (0) Total entities for the zip file: 423 directories, 2400 files (0 skipped as non-modified), 32.8 Mb
+0002.159 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0002.187 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0002.218 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0002.249 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0002.283 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0002.306 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.2 Mb, 2400 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0004.322 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 600 files added (on-disk size: 4221.8 Kb)
+0004.356 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 700 files added (on-disk size: 4221.8 Kb)
+0004.390 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 800 files added (on-disk size: 4221.8 Kb)
+0004.427 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 900 files added (on-disk size: 4221.8 Kb)
+0004.462 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 1000 files added (on-disk size: 4221.8 Kb)
+0004.464 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.8 Mb, 2400 files batched, 501 (1002) added so far); re-opening (prior size: 4221.8 Kb)
+0004.896 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 1100 files added (on-disk size: 5128.9 Kb)
+0004.923 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 1200 files added (on-disk size: 5128.9 Kb)
+0004.955 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 1300 files added (on-disk size: 5128.9 Kb)
+0004.985 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 1400 files added (on-disk size: 5128.9 Kb)
+0005.019 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 1500 files added (on-disk size: 5128.9 Kb)
+0005.021 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.9 Mb, 2400 files batched, 501 (1503) added so far); re-opening (prior size: 5128.9 Kb)
+0005.768 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 1600 files added (on-disk size: 6365.8 Kb)
+0005.804 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 1700 files added (on-disk size: 6365.8 Kb)
+0005.839 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 1800 files added (on-disk size: 6365.8 Kb)
+0005.871 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 1900 files added (on-disk size: 6365.8 Kb)
+0005.906 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 2000 files added (on-disk size: 6365.8 Kb)
+0005.908 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.2 Mb, 2400 files batched, 501 (2004) added so far); re-opening (prior size: 6365.8 Kb)
+0006.747 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 2100 files added (on-disk size: 8513.2 Kb)
+0006.784 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 2200 files added (on-disk size: 8513.2 Kb)
+0006.814 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 2300 files added (on-disk size: 8513.2 Kb)
+0006.845 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip.tmp: 2400 files added (on-disk size: 8513.2 Kb)
+0008.144 (0) Created plugins zip (0) - 10388.9 Kb in 8.1 s (1290.1 Kb/s) (SHA1 checksum: e822c65e8dac603d13778e2e3eec5f8018b7dad7)
+0008.162 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0008.327 (0) /home/devmysite/public_html/vs/wp-content/themes/deca/redux/assets/css/media/media.css: unreadable file
+0008.339 (0) [Warning] themes/deca/redux/assets/css/media/media.css: unreadable file - could not be backed up
+0008.478 (0) /home/devmysite/public_html/vs/wp-content/themes/deca/assets/img/favicon.png: unreadable file
+0008.481 (0) [Warning] themes/deca/assets/img/favicon.png: unreadable file - could not be backed up
+0008.670 (0) Total entities for the zip file: 158 directories, 779 files (0 skipped as non-modified), 24.8 Mb
+0008.697 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0008.722 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0008.749 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0008.771 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0008.793 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0008.794 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.3 Mb, 779 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0010.127 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-themes.zip.tmp: 600 files added (on-disk size: 7061.6 Kb)
+0010.147 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-themes.zip.tmp: 700 files added (on-disk size: 7061.6 Kb)
+0011.087 (0) Created themes zip (0) - 17027.5 Kb in 2.9 s (5824.4 Kb/s) (SHA1 checksum: c0dc70887b216438aa745273e42f9da9478f857d)
+0011.091 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0011.092 (0) Looking for candidates to back up in: /home/devmysite/public_html/vs/wp-content/uploads
+0011.093 (0) finding files: 2015: adding to list (1)
+0011.094 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0011.535 (0) Total entities for the zip file: 8 directories, 1368 files (0 skipped as non-modified), 52.4 Mb
+0011.553 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0011.571 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0011.596 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0011.615 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0011.634 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0011.635 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (20.2 Mb, 1368 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0015.229 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 600 files added (on-disk size: 20160.4 Kb)
+0015.250 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 700 files added (on-disk size: 20160.4 Kb)
+0015.272 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 800 files added (on-disk size: 20160.4 Kb)
+0015.294 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 900 files added (on-disk size: 20160.4 Kb)
+0015.325 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 1000 files added (on-disk size: 20160.4 Kb)
+0015.326 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19.7 Mb, 1368 files batched, 501 (1002) added so far); re-opening (prior size: 20160.4 Kb)
+0018.676 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 1100 files added (on-disk size: 38659.1 Kb)
+0018.699 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 1200 files added (on-disk size: 38659.1 Kb)
+0018.722 (0) Zip: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip.tmp: 1300 files added (on-disk size: 38659.1 Kb)
+0021.881 (0) Created uploads zip (0) - 50705.9 Kb in 10.8 s (4701 Kb/s) (SHA1 checksum: 488a7227fadb8a991e713eab3c58fcfc0e087c5d)
+0021.884 (0) Beginning backup of other directories found in the content directory (index: 0)
+0021.885 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql
+0021.886 (0) Looking for candidates to back up in: /home/devmysite/public_html/vs/wp-content
+0021.887 (0) finding files: index.php: adding to list (1)
+0021.888 (0) finding files: upgrade: skipping: excluded by options
+0021.888 (0) finding files: updraft: skipping: this is the updraft directory
+0021.889 (0) finding files: uploads: skipping: this is the uploads directory
+0021.890 (0) finding files: themes: skipping: this is the themes directory
+0021.891 (0) finding files: plugins: skipping: this is the plugins directory
+0021.894 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 Mb
+0021.918 (0) Created others zip (0) - 0.1 Kb in 0 s (5.7 Kb/s) (SHA1 checksum: dbbc71ff3bb7bc670af1b96fc9a3d91228e9dbb7)
+0021.923 (0) Saving backup status to database (elements: 8)
+0021.944 (0) Beginning creation of database dump (WordPress DB)
+0022.051 (0) Table wp_victoriastrongoptions: Total expected rows (approximate): 213
+0022.131 (0) Table wp_victoriastrongoptions: Total rows added: 216 in 0.08 seconds
+0022.132 (0) Table wp_victoriastrongoptions: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongoptions.table.gz - 45.8 Kb)
+0022.136 (0) Table wp_victoriastrongusers: Total expected rows (approximate): 0
+0022.147 (0) Table wp_victoriastrongusers: Total rows added: 1 in 0.01 seconds
+0022.148 (0) Table wp_victoriastrongusers: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongusers.table.gz - 0.5 Kb)
+0022.151 (0) Table wp_victoriastrongusermeta: Total expected rows (approximate): 23
+0022.158 (0) Table wp_victoriastrongusermeta: Total rows added: 24 in 0.01 seconds
+0022.158 (0) Table wp_victoriastrongusermeta: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongusermeta.table.gz - 1.4 Kb)
+0022.173 (0) Table wp_victoriastrongcommentmeta: Total expected rows (approximate): 0
+0022.181 (0) Table wp_victoriastrongcommentmeta: Total rows added: 0 in 0.01 seconds
+0022.182 (0) Table wp_victoriastrongcommentmeta: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongcommentmeta.table.gz - 0.3 Kb)
+0022.185 (0) Table wp_victoriastrongcomments: Total expected rows (approximate): 6
+0022.189 (0) Table wp_victoriastrongcomments: Total rows added: 6 in 0.00 seconds
+0022.189 (0) Table wp_victoriastrongcomments: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongcomments.table.gz - 1.3 Kb)
+0022.193 (0) Table wp_victoriastronglinks: Total expected rows (approximate): 0
+0022.197 (0) Table wp_victoriastronglinks: Total rows added: 0 in 0.00 seconds
+0022.198 (0) Table wp_victoriastronglinks: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastronglinks.table.gz - 0.4 Kb)
+0022.201 (0) Table wp_victoriastrongpostmeta: Total expected rows (approximate): 2874
+0022.496 (0) Table wp_victoriastrongpostmeta: Total rows added: 3085 in 0.29 seconds
+0022.499 (0) Table wp_victoriastrongpostmeta: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongpostmeta.table.gz - 44.3 Kb)
+0022.502 (0) Table wp_victoriastrongposts: Total expected rows (approximate): 766
+0023.000 (0) Table wp_victoriastrongposts: Total rows added: 762 in 0.50 seconds
+0023.002 (0) Table wp_victoriastrongposts: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongposts.table.gz - 109.2 Kb)
+0023.006 (0) Table wp_victoriastrongterm_relationships: Total expected rows (approximate): 185
+0023.019 (0) Table wp_victoriastrongterm_relationships: Total rows added: 192 in 0.01 seconds
+0023.020 (0) Table wp_victoriastrongterm_relationships: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongterm_relationships.table.gz - 0.9 Kb)
+0023.024 (0) Table wp_victoriastrongterm_taxonomy: Total expected rows (approximate): 42
+0023.040 (0) Table wp_victoriastrongterm_taxonomy: Total rows added: 45 in 0.02 seconds
+0023.041 (0) Table wp_victoriastrongterm_taxonomy: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongterm_taxonomy.table.gz - 0.7 Kb)
+0023.044 (0) Table wp_victoriastrongtermmeta: Total expected rows (approximate): 0
+0023.047 (0) Table wp_victoriastrongtermmeta: Total rows added: 0 in 0.00 seconds
+0023.048 (0) Table wp_victoriastrongtermmeta: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongtermmeta.table.gz - 0.4 Kb)
+0023.051 (0) Table wp_victoriastrongterms: Total expected rows (approximate): 42
+0023.055 (0) Table wp_victoriastrongterms: Total rows added: 45 in 0.00 seconds
+0023.056 (0) Table wp_victoriastrongterms: finishing file (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongterms.table.gz - 0.8 Kb)
+0023.059 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongoptions.table.gz (1/12): adding to final database dump
+0023.072 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongusers.table.gz (2/12): adding to final database dump
+0023.073 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongusermeta.table.gz (3/12): adding to final database dump
+0023.075 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongcommentmeta.table.gz (4/12): adding to final database dump
+0023.076 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongcomments.table.gz (5/12): adding to final database dump
+0023.077 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastronglinks.table.gz (6/12): adding to final database dump
+0023.078 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongpostmeta.table.gz (7/12): adding to final database dump
+0023.107 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongposts.table.gz (8/12): adding to final database dump
+0023.172 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongterm_relationships.table.gz (9/12): adding to final database dump
+0023.174 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongterm_taxonomy.table.gz (10/12): adding to final database dump
+0023.175 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongtermmeta.table.gz (11/12): adding to final database dump
+0023.176 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db-table-wp_victoriastrongterms.table.gz (12/12): adding to final database dump
+0023.177 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db.gz: finished writing out complete database file (176 Kb)
+0023.182 (0) Total database tables backed up: 12 (backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db.gz, size: 209259, checksum (SHA1): f6940b6dc559428c51fbfb626bbd8a33c37e5233)
+0023.208 (0) Saving backup history
+0023.212 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0023.212 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0023.213 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0023.214 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-others.zip: others: This file has not yet been successfully uploaded: will queue
+0023.215 (0) backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db.gz: db: This file has not yet been successfully uploaded: will queue
+0023.227 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0023.230 (0) Cloud backup selection (1/1): none (last)
+0023.231 (0) No remote despatch: user chose no remote backup service
+0023.233 (0) Recording as successfully uploaded: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-plugins.zip (b7a9d27018e7e745e2f35c54d5dec313)
+0023.341 (0) Recording as successfully uploaded: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-themes.zip (cd5a7b7ef7c26708a9cff37f26abd7a1)
+0023.345 (0) Recording as successfully uploaded: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-uploads.zip (f37962281aad5916a1252f2c2223f5ce)
+0023.357 (0) Recording as successfully uploaded: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-others.zip (faeda503e745f4c5348aee8ab51034aa)
+0023.361 (0) Recording as successfully uploaded: backup_2015-12-27-0407_Victoria_Strong_Manufacturing_922916c62a20-db.gz (b322699dddf794ba60e8f61bcb569356)
+0023.378 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0023.379 (0) Number of backup sets in history: 1
+0023.380 (0) Examining backup set with datestamp: 1451189275 (Dec 27 2015 04:07:55)
+0023.381 (0) 1451189275: this backup set remains non-empty (1/1); will retain in history
+0023.382 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0023.412 (0) Resume backup (922916c62a20, 0): finish run
+0023.481 (0) Decremented the semaphore (fd) by 1
+0023.482 (0) Semaphore (fd) unlocked
+0023.483 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0023.486 (0) No email will/can be sent - the user has not configured an email address.
+0023.487 (0) The backup apparently succeeded (with warnings) and is now complete
