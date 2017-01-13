@@ -22,22 +22,25 @@
 /** The name of the database for WordPress */
 define('WP_CACHE', true); //Added by WP-Cache Manager
 
-define('DB_NAME', 'da7lhjpegtr1t2');
+define('DB_NAME', 'victoria_160129');
 
 /** MySQL database username */
-define('DB_USER', 'guycjlvmksxtmz');
+define('DB_USER', 'victoria_160129');
 
 /** MySQL database password */
-define('DB_PASSWORD', '15adfb00d92a5539742c005869dd27ae412e44e48176c47971be31d0eebd534a');
+define('DB_PASSWORD', 'Victory^*^@2313');
 
 /** MySQL hostname */
-define('DB_HOST', 'ec2-107-20-149-243.compute-1.amazonaws.com');
+define('DB_HOST', 'vsmc.netfirmsmysql.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
+
+define('WP_HOME','https://victoriastrong.herokuapp.com');
+define('WP_SITEURL','https://victoriastrong.herokuapp.com');
 
 /**#@+
  * Authentication Unique Keys and Salts.
